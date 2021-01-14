@@ -1,1 +1,2 @@
 random text from file 2
+second line added for file 2
